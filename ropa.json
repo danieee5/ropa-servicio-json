@@ -1,0 +1,184 @@
+{
+  "prendas": [
+    {
+      "id": 17,
+      "url": "https://i.pinimg.com/736x/76/55/b3/7655b3ffbed4c0336b6dff799098c7b7.jpg",
+      "valor": 89.95,
+      "usuario": "RunPro",
+      "nombrePrenda": "Zapatillas Running Pro",
+      "generoPrenda": "Unisex",
+      "categoria": "deportivo",
+      "etiquetas": ["running", "cardio", "tecnología", "amortiguación"]
+    },
+    {
+      "id": 10,
+      "url": "https://i.pinimg.com/736x/f1/9f/33/f19f3377cceb3ccf0d94b03336d5b35b.jpg",
+      "valor": 145.99,
+      "usuario": "EleganceByLaura",
+      "nombrePrenda": "Traje Pantalón Premium",
+      "generoPrenda": "Femenino",
+      "categoria": "elegante",
+      "etiquetas": ["oficina", "reuniones", "lana", "clásico"]
+    },
+    {
+      "id": 3,
+      "url": "https://i.pinimg.com/736x/5f/9b/4c/5f9b4c3f43a2e2449c0923ff1ec8d976.jpg",
+      "valor": 65.50,
+      "usuario": "UrbanChic",
+      "nombrePrenda": "Conjunto Oversize",
+      "generoPrenda": "Femenino",
+      "categoria": "casual",
+      "etiquetas": ["relaxed", "streetstyle", "moderno", "día a día"]
+    },
+    {
+      "id": 14,
+      "url": "https://i.pinimg.com/736x/34/43/3a/34433a59b6cf88f5b97acf1a710a167b.jpg",
+      "valor": 32.75,
+      "usuario": "ActiveGirl",
+      "nombrePrenda": "Top Deportivo Transpirable",
+      "generoPrenda": "Femenino",
+      "categoria": "deportivo",
+      "etiquetas": ["yoga", "gym", "entrenamiento", "dryfit"]
+    },
+    {
+      "id": 7,
+      "url": "https://i.pinimg.com/736x/eb/c8/8e/ebc88e59d45ed06562da7375e825beef.jpg",
+      "valor": 120.00,
+      "usuario": "ClassicGentleman",
+      "nombrePrenda": "Traje de Lino Verano",
+      "generoPrenda": "Masculino",
+      "categoria": "elegante",
+      "etiquetas": ["boda", "evento", "verano", "sastrería"]
+    },
+    {
+      "id": 5,
+      "url": "https://i.pinimg.com/736x/36/90/79/36907936da685417935ed9f9359b0d1d.jpg",
+      "valor": 45.20,
+      "usuario": "StreetTrends",
+      "nombrePrenda": "Chaqueta Denim",
+      "generoPrenda": "Masculino",
+      "categoria": "casual",
+      "etiquetas": ["urban", "denim", "moderno", "capas"]
+    },
+    {
+      "id": 12,
+      "url": "https://i.pinimg.com/736x/13/ff/26/13ff26b58450bf5b4501b9bcac59f179.jpg",
+      "valor": 89.99,
+      "usuario": "LuxuryWardrobe",
+      "nombrePrenda": "Vestido de Seda",
+      "generoPrenda": "Femenino",
+      "categoria": "elegante",
+      "etiquetas": ["noche", "eventos", "lujo", "minimalista"]
+    },
+    {
+      "id": 1,
+      "url": "https://i.pinimg.com/736x/5f/9b/4c/5f9b4c3f43a2e2449c0923ff1ec8d976.jpg",
+      "valor": 38.90,
+      "usuario": "DailyOutfits",
+      "nombrePrenda": "Conjunto Primaveral",
+      "generoPrenda": "Femenino",
+      "categoria": "casual",
+      "etiquetas": ["básico", "comfy", "algodón", "versátil"]
+    },
+    {
+      "id": 18,
+      "url": "https://i.pinimg.com/736x/e3/64/19/e364193d39d2be6275d0149e96013aaf.jpg",
+      "valor": 75.50,
+      "usuario": "OutdoorLife",
+      "nombrePrenda": "Kit Senderismo",
+      "generoPrenda": "Masculino",
+      "categoria": "deportivo",
+      "etiquetas": ["aventura", "aire libre", "tecnico", "resistente"]
+    },
+    {
+      "id": 4,
+      "url": "https://i.pinimg.com/736x/a7/0d/91/a70d91dce97fc28277ac7d3655445463.jpg",
+      "valor": 29.99,
+      "usuario": "MinimalMan",
+      "nombrePrenda": "Abrigo Ligero",
+      "generoPrenda": "Masculino",
+      "categoria": "casual",
+      "etiquetas": ["otoño", "capas", "neutro", "esenciales"]
+    },
+    {
+      "id": 9,
+      "url": "https://i.pinimg.com/736x/a2/4b/c7/a24bc7ddc5f948640de28044fa7645eb.jpg",
+      "valor": 199.99,
+      "usuario": "WatchCollector",
+      "nombrePrenda": "Reloj Clásico",
+      "generoPrenda": "Masculino",
+      "categoria": "elegante",
+      "etiquetas": ["accesorio", "lujo", "precisión", "inversión"]
+    },
+    {
+      "id": 13,
+      "url": "https://i.pinimg.com/736x/d2/77/d0/d277d0ad6171d089f5e7ebc7d0bdcfbc.jpg",
+      "valor": 55.25,
+      "usuario": "FitFashion",
+      "nombrePrenda": "Set Training Pro",
+      "generoPrenda": "Femenino",
+      "categoria": "deportivo",
+      "etiquetas": ["performance", "compresión", "entreno", "activo"]
+    },
+    {
+      "id": 2,
+      "url": "https://i.pinimg.com/736x/31/64/3b/31643b9aba3e1f639c60e212ffafa97d.jpg",
+      "valor": 42.80,
+      "usuario": "ComfyStyle",
+      "nombrePrenda": "Joggers + Hoodie",
+      "generoPrenda": "Femenino",
+      "categoria": "casual",
+      "etiquetas": ["hogar", "relax", "algodón", "weekend"]
+    },
+    {
+      "id": 8,
+      "url": "https://i.pinimg.com/736x/cf/dc/65/cfdc6554ac1714b9aacdee628d68b87e.jpg",
+      "valor": 110.50,
+      "usuario": "BusinessLook",
+      "nombrePrenda": "Blazer Slim Fit",
+      "generoPrenda": "Masculino",
+      "categoria": "elegante",
+      "etiquetas": ["negocios", "reuniones", "moderno", "oficina"]
+    },
+    {
+      "id": 16,
+      "url": "https://i.pinimg.com/736x/83/f2/8e/83f28e77ace235b2762dc7144bef7d1e.jpg",
+      "valor": 28.30,
+      "usuario": "RunningPro",
+      "nombrePrenda": "Shorts Deportivos",
+      "generoPrenda": "Masculino",
+      "categoria": "deportivo",
+      "etiquetas": ["carrera", "ligero", "transpirable", "velocidad"]
+    },
+    {
+      "id": 6,
+      "url": "https://i.pinimg.com/736x/07/84/47/07844761cfb3b0d191a9e3ee99ff3088.jpg",
+      "valor": 24.99,
+      "usuario": "BasicWardrobe",
+      "nombrePrenda": "Camiseta Básica",
+      "generoPrenda": "Masculino",
+      "categoria": "casual",
+      "etiquetas": ["básico", "algodón", "minimal", "multiusos"]
+    },
+    {
+      "id": 11,
+      "url": "https://i.pinimg.com/736x/69/7d/95/697d95699bdd9ee69da9b99ec7159522.jpg",
+      "valor": 135.75,
+      "usuario": "ChicProfessional",
+      "nombrePrenda": "Conjunto de Tweed",
+      "generoPrenda": "Femenino",
+      "categoria": "elegante",
+      "etiquetas": ["sofisticado", "invierno", "lujo", "diseñador"]
+    },
+    {
+      "id": 15,
+      "url": "https://i.pinimg.com/736x/3e/0f/37/3e0f37fc22503a63bc336153879c615c.jpg",
+      "valor": 68.40,
+      "usuario": "AdventureTime",
+      "nombrePrenda": "Equipo Montaña",
+      "generoPrenda": "Unisex",
+      "categoria": "deportivo",
+      "etiquetas": ["senderismo", "outdoor", "resistente", "tecnología"]
+    }
+  ]
+}
